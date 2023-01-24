@@ -1,0 +1,19 @@
+# 3DRay-Casting
+A simple ray-casting experimental program
+
+run the Main to run the app!. View controls first
+
+# CONTROLS:
+- W A S D = PLAYER MOVEMENT
+- RIGHT-CLICK = TO COLOR A TILE
+- LEFT_CLICK = CLEAR A TILE
+- SPACE = SHOOT THE RAY (shoots a single ray)
+- ENTER = SHOOT RAYS (render visual on left-screen)
+- TAB = DESTROY THE FIRST COLORED TILE HIT BY THE RAY
+
+# NOTES:
+- NO COLLISION WAS IMPLEMENTED SO BE CAREFUL OF PASSING OUT OF THE MAP
+- PRESS FIRST SPACE TO SHOOT THE RAY BEFORE PRESSING ENTER TO SHOW VISUAL ON LEFT_SCREEN
+- ADJUST THE GRID SIZE ON self.grid_dimensions
+
+
